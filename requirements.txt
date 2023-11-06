@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+mysql-connector-python
+sqlalchemy
+passlib[bcrypt]
+python-dotenv
+pyJWT[crypto]
+python-multipart
+fastapi-sessions
+alembic
+psycopg2
